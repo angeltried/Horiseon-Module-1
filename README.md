@@ -25,10 +25,10 @@ THEN I find a concise, descriptive title
 
 * Html
 1. Opened html in chrome browser to check and links.
-2. (S-E-O) <h2> needed to be linked to it's href using id="".
+2. (S-E-O) h2 needed to be linked to it's href using id="".
 3. Changed <title> to something catchy.
-4. Changed </img> to /> on <h3> Cost managment.
-5. Changed <h2> made with <3 by Horseion into <h4>
+4. Changed </img> to /> on h3 Cost managment.
+5. Changed h2 made with <3 by Horseion into h4
 6. Add id="" to href links.
 7. Add id="" to other elements to shorten codes in css.
 8. Add alt="" to all img for short description.
