@@ -21,7 +21,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
-#### Angels walkthrough
+####Angels walkthrough
 
 * Html
 1. Opened html in chrome browser to check and links.
@@ -34,13 +34,13 @@ THEN I find a concise, descriptive title
 8. Add alt="" to all img for short description.
   
 * Css
-1. Target all <h2> & <h3> to have the same style.
+1. Target all h2 & h3 to have the same style.
 2. Combine class (benefit)(style) bc they had same styles.
 3. Made an id top links to make links have a pointer and opacity when hover over it.
 4. Made an id for img that had the same styles.
 5. Made an id for the elements that had the same max height.
   
-##### Turn in
+#####Turn in
 
-  Make a repository with a unique name and typed out a README with how I did this assignment. In your repository go to setting pages and make main. Go into terminal (mac) and open files and git status. Make git branch to -M main. Push existing repository from command line. 
+  Make a repository with a unique name and typed out a README with how I did this assignment. In your repository go to setting pages and make main. Go into terminal (mac) and open files and git status then git add.. Make git branch to -M main if needed. Git remote add origin https://github.com/angeltried/Horiseon-Module-1.git. Git push -u orgin main to existing repository from terminal (mac). 
 
